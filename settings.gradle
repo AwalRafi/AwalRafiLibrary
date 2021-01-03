@@ -1,0 +1,3 @@
+include ':awalrafilibrary'
+include ':app'
+rootProject.name = "ProjectAwalRafiHLibrary"
